@@ -1,0 +1,3 @@
+[submodule "Externals/CodaPluginsController.h"]
+	path = Externals/CodaPluginsController.h
+	url = git://github.com/monoceroi/CodaPluginsController.h.git
